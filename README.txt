@@ -1,4 +1,5 @@
-................. Bidding System.................
+# Bidding System
+:speech_balloon:This is a Java Bidding System with Client Server and Publisher Subscriber architectures developing by using Java Network Programming.
 
 1. First extract "BiddingSystem_Group_08.zip" file 
 
