@@ -1,6 +1,21 @@
 # Bidding System
 :speech_balloon:This is a Java Bidding System with Client Server and Publisher Subscriber architectures developing by using Java Network Programming.
 
+- Login and Registration
+- The server can handle multiple users
+- Bidding time can be set when starting the bidding
+- Client-Server Architecture
+    - Companies can publish items and edit items' details
+    - Clients can bid on items
+    - Both users can view the list of the current items
+    - Both users can subscribe to items
+    - Both users can view the details of subscribed items
+- Publisher-Subscriber Architecture
+    - Reserve subscribed items bid update notifications
+    - Notifications about added new items
+
+<img src="https://github.com/kavishkamk/kavishkamk.github.io/blob/main/images/projects/biddingSystem.png" alt="Alt text" title="Bidding System">
+
 1. First extract "BiddingSystem_Group_08.zip" file 
 
 2. In "BiddingSystem_Group_08" folder 3 .zip files contain for server, clients and Companies.
